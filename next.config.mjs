@@ -10,7 +10,8 @@ const nextConfig = {
     ],
     unoptimized:true
   },
-  output: 'dist'
+  output: 'export',
 };
+
 
 export default nextConfig;
